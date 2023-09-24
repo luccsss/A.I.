@@ -1,0 +1,4 @@
+C:\Users\Olidata\Downloads\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Olidata\Downloads\Project1\x64\Debug\Project1.exe
+C:\Users\Olidata\Downloads\TRABAJO PARCIAL\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Olidata\Downloads\TRABAJO PARCIAL\x64\Debug\Project1.exe
