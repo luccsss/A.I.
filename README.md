@@ -1,3 +1,3 @@
 ++++++++++++++++++++++++++++++++++++ SIETE Y MEDIO ++++++++++++++++++++++++++++++++++++
-- Boardgame with carts and probability
+- Boardgame with cards and probability
 - 2 players per round
